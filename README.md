@@ -1,7 +1,6 @@
-# Magisk-ADBWifi
+### Magisk-ADBWifi
 
-This Magisk module starts a listening port for ADB over Wifi
+源代码基于 [Magisk-ADBWifi](https://github.com/kingmesri/Magisk-ADBWifi) 修改
 
-Requirments:
-1. Magisk Installer v18 (or above)
-2. Root access
+
+去掉了自带的apk，自我感觉配合[Wadb](https://play.google.com/store/apps/details?id=moe.haruue.wadb)更好用
